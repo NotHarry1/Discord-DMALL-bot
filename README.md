@@ -4,11 +4,11 @@ A discord bot for dm all the member of a guild with a command. You can easily cu
 # ⚒️ Config
 Mandatory :
 
-Put the token of your bot in the `config.json` file (line 2).
+- Put the token of your bot in the `config.json` file (line 2).
 
-Put your message you want to send to the members (line 3).
+- Put your message you want to send to the members (line 3).
 
-Put the id of the person who will use the command (line 5).
+- Put the id of the person who will use the command (line 5).
 
 No mandatory :
 
