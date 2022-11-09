@@ -34,6 +34,7 @@ async def dmall(ctx):
                 try:
                     await member.send(msg)
                     print(f"{Fore.GREEN}message sent > {member.name} !")
+                    await asyncio.sleep(10) #timeout
                 except:
                     print(f"{Fore.RED}Error > {member.name}")
                     continue
