@@ -12,6 +12,9 @@ Mandatory :
 
 - Put your message you want to send to the new channels after nuking the server (line 6).
 
+- Name of the new channel when nuking (line 7).
+
+
 No mandatory :
 
 You can put id's of members you don't want to DM (line 3 on the config file).
