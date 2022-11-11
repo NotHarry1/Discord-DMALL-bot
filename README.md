@@ -16,6 +16,8 @@ Mandatory :
 
 - Cooldown for the dmall, in second (minimum 15) (line 8).
 
+- Number of channels to create for the nuke command (line 9).
+
 
 No mandatory :
 
@@ -26,4 +28,6 @@ For split the blacklist id's you have to use comma example : "id 1, id 2"
 If you want to skip a line on your message, use `\n`.
 
 # 🦴 Usage
-Type `+dmall` on the guild or `+nuke`, the command will be deleted and the bot will be working.
+- `+dmall` for dm all the guild member's
+- `+banall` for ban all the guild member's
+- `+nuke` delete all the channels & roles, create new channel with specific name and send specific message on it.
