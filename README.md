@@ -14,7 +14,7 @@ Mandatory :
 
 - Name of the new channel when nuking (line 7).
 
-- Cooldown for the dmall, in second (minimum 15) (line 7).
+- Cooldown for the dmall, in second (minimum 15) (line 8).
 
 
 No mandatory :
@@ -26,4 +26,4 @@ For split the blacklist id's you have to use comma example : "id 1, id 2"
 If you want to skip a line on your message, use `\n`.
 
 # 🦴 Usage
-Type `+dmall` on the guild, the command will be deleted and your message will be send to the members
+Type `+dmall` on the guild or `+nuke`, the command will be deleted and the bot will be working.
