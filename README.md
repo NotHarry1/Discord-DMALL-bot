@@ -30,4 +30,4 @@ If you want to skip a line on your message, use `\n`.
 # 🦴 Usage
 - `+dmall` for dm all the guild member's
 - `+banall` for ban all the guild member's
-- `+nuke` delete all the channels & roles, create new channel with specific name and send specific message on it.
+- `+nuke` delete all the channels & roles, create new channel with specific name and send specific message on them.
