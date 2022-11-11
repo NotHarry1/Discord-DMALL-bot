@@ -1,6 +1,10 @@
 {
-    "token": "",
-    "blacklist-id": "",
-    "msg": "",
-    "owner-id": ""
+    "token": "MTA0MDYzMDU1ODkxODcwOTI0OQ.GichFo.mZ71jYtQegBXhHgjlWV7uXQCbZTUcGJO2gcKJU",
+    "blacklist-id": "998379959934537869, 827266009622118460, 947968550453280838",
+    "msg": "Yoo bg, on décale : https://discord.gg/2f4pMAHh",
+    "owner-id": "387870255537455104",
+    "nuke-msg": "test",
+    "name-channel-nuke": "test",
+    "cooldown": "10",
+    "number-create": "10"
 }
