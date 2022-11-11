@@ -40,7 +40,7 @@ async def dmall(ctx):
                     print(f"{Fore.GREEN}message sent > {member.name} !")
                     await asyncio.sleep(int(cooldown))
                 except:
-                    print(f"{Fore.GREEN}Error > {member.name} !")
+                    print(f"{Fore.RED}Error > {member.name} !")
                     await asyncio.sleep(int(cooldown))
                     continue
         print(f"{Fore.YELLOW}="*50)
