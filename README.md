@@ -14,6 +14,8 @@ Mandatory :
 
 - Name of the new channel when nuking (line 7).
 
+- Cooldown for the dmall, in second (minimum 15) (line 7).
+
 
 No mandatory :
 
